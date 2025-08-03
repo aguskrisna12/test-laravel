@@ -30,10 +30,10 @@ A Laravel-based web application for managing a bookstore with book ratings and p
 
 ## Database Structure
 
-- **Authors:** 100 fake authors (can be increased to 1,000)
-- **Categories:** 300 fake categories (can be increased to 3,000)
-- **Books:** 1,000 fake books (can be increased to 100,000)
-- **Ratings:** 5,000 fake ratings (can be increased to 500,000)
+- **Authors:** 1,000 fake authors (can be increased to 1,000)
+- **Categories:** 3000 fake categories (can be increased to 3,000)
+- **Books:** 100,000 fake books (can be increased to 100,000)
+- **Ratings:** 500,000 fake ratings (can be increased to 500,000)
 
 ## Installation
 
